@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-04T09:33:26.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.58" etag="61zV7VuG_ei-EdKayI7N" version="13.8.9-1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-04T09:33:44.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.58" etag="UeoDgqpGcQxDX1yECeqe" version="13.8.9-1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1695" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -195,9 +195,6 @@
             <mxPoint x="630" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IQ1WFvswOSSB9n_8ebDj-51" value="&lt;h4&gt;&lt;font color=&quot;#000000&quot;&gt;mainloop&lt;/font&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontColor=#FF0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="690" y="720" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="IQ1WFvswOSSB9n_8ebDj-52" value="" style="endArrow=classic;html=1;labelBackgroundColor=#FF6666;fontFamily=Verdana;fontColor=#FF0000;exitX=0.442;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="zKhVYIZBIzZw7twBD6bk-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="145" as="sourcePoint" />
@@ -208,7 +205,7 @@
           <mxGeometry x="770" y="145" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IQ1WFvswOSSB9n_8ebDj-54" value="&lt;h1&gt;由于本人水平及时间有限,本流程图可能有诸多问题,github仓库:github.com/colinxu2020/Minecraft-startup-Flowchart&lt;/h1&gt;&lt;h1&gt;作者:许家澍&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-10" y="821" width="810" height="150" as="geometry" />
+          <mxGeometry y="660" width="810" height="150" as="geometry" />
         </mxCell>
         <mxCell id="IQ1WFvswOSSB9n_8ebDj-57" value="&lt;h4&gt;jit预热&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="620" y="125" width="100" height="60" as="geometry" />
